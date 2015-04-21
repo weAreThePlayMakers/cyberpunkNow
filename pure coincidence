@@ -1,0 +1,21 @@
+
+so here's the story:
+
+yesterday, i compiled a list of tasks needed to be tackled immediately 4 one of the projects i worked on few months ago and which apparently needed tiding up
+
+the first task i decided to work on was a simple page with a red logo on a black background. as always i decided to take this as an opportunity to learn something new and implement the thing using [snap.svg](http://snapsvg.io/) which i've been wanting to try 4 quite a while now.  
+
+the idea was to have simple svg animation that would trigger off on hover/click and which would see three "arms" of my red logo disperse in "snake/worm" style in different directions
+
+as i set off to work on this i decided to run alongside my usual Brackets one of cloud based IDE's that you can find on chrome store which is just one of my saturday-morning-fun-kind-of-things. 
+
+i hit the first one i came across which happened to be [Page Editey](https://chrome.google.com/webstore/detail/page-editey/fdiihdoehkilpfajkfmahgdiodppbajm) which comes with few templates to start with but since i wasn't really bothered i quickly went for "HTML only" option and kicked it off.
+
+once the editor finished initialising my new workspace i realised the template was not an empty html file at all but it contained a lot of mark up. i run the code in the separate tab just to see how the preview works and ... my jaw hit the ground!
+
+see for yourself 
+
+<p data-height="663" data-theme-id="8818" data-slug-hash="dJtbg" data-default-tab="result" data-user="asanocorp" class='codepen'>See the Pen <a href='http://codepen.io/asanocorp/pen/dJtbg/'>pure coincidence? well see for yourself</a> by asano corp (<a href='http://codepen.io/asanocorp'>@asanocorp</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js"></script>
+
+> By [@asano_corp](https://github.com/asanocorp) with [StackEdit](https://stackedit.io/)
